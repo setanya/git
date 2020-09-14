@@ -1,9 +1,8 @@
 <?php
 $title = "My Page";
-
-
+$name ="Nicolay";
+$birth = "09.03.1979";
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -16,6 +15,8 @@ $title = "My Page";
     <h1>Привет </h1>
 
     <h2>hello</h2>
+    <p> My name:<?=$name;?></p>
+    <p> My birthday:<?=$birth;?></p>
     
 
 </body>
