@@ -14,7 +14,9 @@ $title = "My Page";
 </head>
 <body>
     <h1>Привет </h1>
+
     <h2>hello</h2>
     
+
 </body>
 </html>
